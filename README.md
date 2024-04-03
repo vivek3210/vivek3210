@@ -1,6 +1,6 @@
-### 🔭 I’m currently working on Java projects!
+### 🔭 I’m currently working on a better Spotify Wrapped application!
 ### ⚡ Fun fact: Discrete Math is hard!
-### 📫 How to reach me: Find my LinkedIn online somehow, its a challenge ;)
+### 📫 How to reach me: Find my LinkedIn online somehow, it's a challenge ;)
 
 <!--
 **vivek3210/vivek3210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
