@@ -1,5 +1,5 @@
-### 🔭 I’m currently working on a better Spotify Wrapped application!
-### ⚡ Fun fact: Discrete Math is hard!
+### 🔭 I’m currently working on a better Portfolio Website!
+### ⚡ Fun fact: Discrete Math is hard, but at least I'm done with it now!
 ### 📫 How to reach me: Find my LinkedIn online somehow, it's a challenge ;)
 
 <!--
