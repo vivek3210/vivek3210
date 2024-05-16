@@ -1,4 +1,4 @@
-### 🔭 I’m currently working on a Portfolio Website!
+### 🔭 I’m currently working my HomeLab!
 ### ⚡ Fun fact: Discrete Math is hard, but at least I'm done with it now!
 ### 📫 How to reach me: Find my LinkedIn online somehow, it's a challenge ;)
 
