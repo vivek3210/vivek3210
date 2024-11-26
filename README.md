@@ -1,5 +1,5 @@
 ### 🔭 I’m currently working my HomeLab!
-### ⚡ Fun fact: Discrete Math is hard, but at least I'm done with it now!
+### ⚡ Fun fact: Learning C is hard, but I'm trying my best. Check out my FinalProject2261 Repo!
 ### 📫 How to reach me: Find my LinkedIn online somehow, it's a challenge ;)
 
 <!--
