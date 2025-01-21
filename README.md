@@ -1,5 +1,5 @@
 ### 🔭 I’m currently working my HomeLab!
-### ⚡ Fun fact: Learning C is hard, but I'm trying my best. Check out my FinalProject2261 Repo!
+### ⚡ Fun fact: Learning C is hard, but I'm trying my best. Check out my GoldenAxeGBA Repo!
 ### 📫 How to reach me: Find my LinkedIn online somehow, it's a challenge ;)
 
 <!--
