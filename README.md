@@ -1,4 +1,4 @@
-### 🔭 I’m currently working on Aware Home projects!
+### 🔭 I’m currently working on [a custom ESP32 server monitor display](https://github.com/vivek3210/esp32-tft-display-server-monitor)!
 ### ⚡ Fun fact: Learning C is hard, but I'm trying my best. Check out my [GoldenAxeGBA Repo](https://github.com/vivek3210/GoldenAxeGBA)!
 ### 📫 How to reach me: Find my LinkedIn online somehow, it's a challenge ;)
 
