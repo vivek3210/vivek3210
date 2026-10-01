@@ -1,4 +1,4 @@
-### 🔭 I’m currently working on a [ACC Issue Exporter](https://github.com/vivek3210/acc_issue_exporter)!
+### 🔭 I’m currently working on a [ACC Issue Exporter!](https://github.com/vivek3210/acc_issue_exporter)
 ### 📫 How to reach me: Find my LinkedIn online somehow, it's a challenge ;)
 
 <!--
